@@ -1,0 +1,424 @@
+# FILE:ARCHICAD 完成part２.obj
+newmtl 壁板_-_ライト
+Ka 0.702941 0.702941 0.702941
+Kd 0.656078 0.656078 0.656078
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\壁板 - ライト -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\壁板 - ライト -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\壁板 - ライト -opt.jpg
+newmtl コンクリート_-_04
+Ka 0.491647 0.491647 0.491647
+Kd 0.663333 0.663333 0.663333
+Ks 0.0759216 0.0759216 0.0759216
+illum 2
+Ns 0.36
+map_Ka ARCHICAD 完成part２_テクスチャ\コンクリート - ライト crbn -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\コンクリート - ライト crbn -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\コンクリート - ライト crbn -opt.jpg
+newmtl レンガ_-_通し目地
+Ka 0.494118 0.370588 0.329412
+Kd 0.494118 0.370588 0.329412
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\レンガ - 通し目地 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\レンガ - 通し目地 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\レンガ - 通し目地 -opt.jpg
+newmtl レンガ_-_茶
+Ka 0.41451 0.329412 0.28
+Kd 0.41451 0.329412 0.28
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\レンガ - 茶 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\レンガ - 茶 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\レンガ - 茶 -opt.jpg
+newmtl 芝生_-_緑
+Ka 0.259686 0.510314 0.138902
+Kd 0.246196 0.483804 0.131686
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\芝生 - 緑 cb -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\芝生 - 緑 cb -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\芝生 - 緑 cb -opt.jpg
+newmtl 地面_-_茶
+Ka 0.371451 0.26102 0.188235
+Kd 0.580392 0.407843 0.294118
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\地面 - 茶 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\地面 - 茶 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\地面 - 茶 -opt.jpg
+newmtl 壁板_-_中
+Ka 0.407255 0.383608 0.357333
+Kd 0.376863 0.35498 0.330667
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\壁板 - ミディアム -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\壁板 - ミディアム -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\壁板 - ミディアム -opt.jpg
+newmtl 金属_-_亜鉛
+Ka 0.365257 0.369906 0.373607
+Kd 0.418385 0.423711 0.42795
+Ks 0.418353 0.418353 0.418353
+illum 2
+Ns 11
+map_Ka ARCHICAD 完成part２_テクスチャ\金属 - 亜鉛 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\金属 - 亜鉛 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\金属 - 亜鉛 -opt.jpg
+newmtl PEN_MATERIAL2_(変換されたオブジェクトから)
+Ka 0.497383 0.497383 0.497383
+Kd 0.497383 0.497383 0.497383
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl プラスチック_-_光沢_白
+Ka 0.752941 0.746667 0.721569
+Kd 0.752941 0.746667 0.721569
+Ks 0.62 0.62 0.62
+illum 2
+Ns 28.18
+newmtl ガラス_-_シンプル_青_ライト
+Ka 0.0911373 0.0993725 0.124078
+Kd 0.0911373 0.0993725 0.124078
+Ks 0.5 0.5 0.5
+illum 2
+d 0.38
+Ns 17.24
+newmtl 金属_-_ステンレス
+Ka 0.80098 0.786078 0.808431
+Kd 0.286667 0.281333 0.289333
+Ks 0.923922 0.923922 0.923922
+illum 2
+Ns 18
+newmtl 金属_-_銅
+Ka 0.745569 0.511137 0.476549
+Kd 0.21302 0.146039 0.136157
+Ks 0.901698 0.591161 0.198958
+illum 2
+Ns 14
+newmtl ガラス_-_シンプル
+Ka 0.137255 0.137255 0.14
+Kd 0.980392 0.980392 1
+Ks 1 1 1
+illum 2
+d 0.17
+Ns 38.56
+newmtl 金属_-_アルミニウム
+Ka 0.71586 0.687236 0.687236
+Kd 0.128488 0.12335 0.12335
+Ks 0.544738 0.544738 0.544738
+illum 2
+Ns 10.2
+newmtl 木材_-_カシ_漆塗り
+Ka 0.38098 0.312667 0.262745
+Kd 0.352549 0.289333 0.243137
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\木材 - カシ 漆塗り -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\木材 - カシ 漆塗り -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\木材 - カシ 漆塗り -opt.jpg
+newmtl 絵画
+Ka 0.491647 0.491647 0.491647
+Kd 0.663333 0.663333 0.663333
+Ks 0.0759216 0.0759216 0.0759216
+illum 2
+Ns 0.36
+map_Ka ARCHICAD 完成part２_テクスチャ\archicad.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\archicad.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\archicad.jpg
+newmtl PEN_MATERIAL11
+Ka 0.500099 0.500099 0.844892
+Kd 0.500099 0.500099 0.844892
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl 群葉_-_葉_木_小
+Ka 0.438196 0.504941 0.174118
+Kd 0.538863 0.620941 0.214118
+Ks 0.56 0.56 0.56
+illum 2
+d 0.77
+Ns 3
+map_Ka ARCHICAD 完成part２_テクスチャ\群葉 - 葉 木 小 cbadp -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\群葉 - 葉 木 小 cbadp -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\群葉 - 葉 木 小 cbadp -opt.jpg
+newmtl 皮革_-_黒_マット
+Ka 0.0676471 0.0647059 0.0617647
+Kd 0.0676471 0.0647059 0.0617647
+Ks 0.55 0.55 0.55
+illum 2
+Ns 0.84
+map_Ka ARCHICAD 完成part２_テクスチャ\皮革 - 黒 マット rb -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\皮革 - 黒 マット rb -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\皮革 - 黒 マット rb -opt.jpg
+newmtl GDLM21_builtInMatBlackTyre
+Ka 0.0860066 0.0860066 0.0860066
+Kd 0.0810062 0.0810062 0.0810062
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl ペイント_-_アイボリーブラック
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM23_builtInMatButtonsBlac
+Ka 0.05 0.0470588 0.0441176
+Kd 0.05 0.0470588 0.0441176
+Ks 0.219608 0.219608 0.219608
+illum 2
+Ns 15.46
+newmtl 繊維_-_02
+Ka 0.161412 0.31898 0.378549
+Kd 0.214118 0.423137 0.502157
+Ks 0.331059 0.331059 0.331059
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\繊維 - 02 c -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\繊維 - 02 c -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\繊維 - 02 c -opt.jpg
+newmtl 木材_-_サクラ_木目
+Ka 0.283765 0.102471 0.0788235
+Kd 0.262588 0.0948235 0.0729412
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\木材 - サクラ 木目 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\木材 - サクラ 木目 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\木材 - サクラ 木目 -opt.jpg
+newmtl ペイント_-_グロスホワイト
+Ka 0.86 0.86 0.86
+Kd 0.81 0.81 0.81
+Ks 0.0892941 0.0892941 0.09
+illum 2
+Ns 0
+newmtl 金属_-_クロム_01
+Ka 0.36702 0.36702 0.36702
+Kd 0.494353 0.494353 0.494353
+Ks 0.96 0.96 0.96
+illum 2
+Ns 53.92
+newmtl ペイント_-_タイタニウムホワイト
+Ka 0.8 0.8 0.8
+Kd 0.89 0.89 0.89
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl リノ_-_赤
+Ka 0.675294 0.311922 0.260471
+Kd 0.403529 0.186392 0.155647
+Ks 0.27 0.27 0.27
+illum 2
+Ns 2.6
+map_Ka ARCHICAD 完成part２_テクスチャ\リノリウム - 赤 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\リノリウム - 赤 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\リノリウム - 赤 -opt.jpg
+newmtl 金属_-_ゴールド
+Ka 0.938867 0.74865 0.262683
+Kd 0.494141 0.394026 0.138254
+Ks 0.878906 0.700842 0.245905
+illum 2
+Ns 16
+newmtl ペイント_-_カドミウムオレンジ
+Ka 0.795922 0.212471 0.0640784
+Kd 0.749647 0.200118 0.0603529
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl ペイント_-_ペールブルー
+Ka 0.546353 0.664392 0.725098
+Kd 0.514588 0.625765 0.682941
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl セラミック_-_磁器_ベージュ
+Ka 0.35 0.329412 0.305882
+Kd 0.35 0.329412 0.305882
+Ks 0.43 0.43 0.379412
+illum 2
+Ns 1
+newmtl 木材_-_くるみ_横
+Ka 0.273255 0.228588 0.194431
+Kd 0.252863 0.211529 0.179922
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\木材 - くるみ 横 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\木材 - くるみ 横 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\木材 - くるみ 横 -opt.jpg
+newmtl 木材_-_マツ_木目_横
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\木材 - マツ 木目 横 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\木材 - マツ 木目 横 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\木材 - マツ 木目 横 -opt.jpg
+newmtl プラスチック_-_ラミネート
+Ka 0.55 0.524621 0.485865
+Kd 0.59 0.562775 0.5212
+Ks 0.243529 0.243529 0.243529
+illum 2
+Ns 0
+newmtl GDLM37_builtInMatWicker
+Ka 0.771057 0.602829 0.361968
+Kd 0.713227 0.557617 0.334821
+Ks 0.0995071 0.0797009 0.0504494
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\ウィッカー テーブル.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\ウィッカー テーブル.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\ウィッカー テーブル.jpg
+newmtl 木材_-_マツ_木目_縦
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\木材 - マツ 木目 縦 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\木材 - マツ 木目 縦 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\木材 - マツ 木目 縦 -opt.jpg
+newmtl ペイント_-_アントラシート
+Ka 0.1454 0.1454 0.1454
+Kd 0.1454 0.1454 0.1454
+Ks 0.0913024 0.0913024 0.0913024
+illum 2
+Ns 4.2
+newmtl ペイント_-_リードオキシドイエロー
+Ka 0.765569 0.728471 0.229333
+Kd 0.721059 0.686118 0.216
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl 金属_-_鉄
+Ka 0.243016 0.252075 0.271919
+Kd 0.198562 0.205964 0.222178
+Ks 0.24902 0.24902 0.24902
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\金属 - 鉄 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\金属 - 鉄 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\金属 - 鉄 -opt.jpg
+newmtl ガラス_-_ランプ
+Ka 0.13125 0.130254 0.109407
+Kd 0.831248 0.824942 0.692912
+Ks 0.28 0.28 0.28
+illum 2
+d 0.51
+Ns 79.52
+newmtl ガラス_-_鏡
+Ka 0.870588 0.917647 0.843137
+Kd 0.748706 0.789176 0.725098
+Ks 1 1 1
+illum 2
+Ns 100
+newmtl 木材_-_マホガニー_横
+Ka 0.399373 0.191804 0.141882
+Kd 0.369569 0.17749 0.131294
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\木材 - マホガニー 横 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\木材 - マホガニー 横 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\木材 - マホガニー 横 -opt.jpg
+newmtl ゾーン_-_00
+Ka 0.74902 0.74902 0.74902
+Kd 0.74902 0.74902 0.74902
+Ks 0 0 0
+illum 2
+d 0.5
+Ns 100
+newmtl 金属_-_真鍮
+Ka 0.721504 0.491628 0.173237
+Kd 0.585003 0.398618 0.140462
+Ks 0.807056 0.61284 0.345253
+illum 2
+Ns 15
+newmtl ガラス_-_鏡_半透明
+Ka 0.870588 0.917647 0.843137
+Kd 0.748706 0.789176 0.725098
+Ks 1 1 1
+illum 2
+Ns 100
+newmtl 空気
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+d 0
+Ns 0
+newmtl ペイント_-_サンドベージュ
+Ka 0.671137 0.66102 0.549725
+Kd 0.632118 0.622588 0.517765
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl 皮革_-_タバック
+Ka 0.284798 0.11335 0.0423066
+Kd 0.289884 0.115374 0.043062
+Ks 0.542196 0.454667 0.413333
+illum 2
+Ns 4.6
+map_Ka ARCHICAD 完成part２_テクスチャ\皮革 - タバック rb -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\皮革 - タバック rb -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\皮革 - タバック rb -opt.jpg
+newmtl 繊維_-_13
+Ka 0.538353 0.253882 0.220235
+Kd 0.621176 0.292941 0.254118
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\繊維 - 13 -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\繊維 - 13 -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\繊維 - 13 -opt.jpg
+newmtl 皮革_-_茶_マット
+Ka 0.297059 0.185294 0.108824
+Kd 0.316863 0.197647 0.116078
+Ks 0.47 0.47 0.47
+illum 2
+Ns 0.84
+map_Ka ARCHICAD 完成part２_テクスチャ\皮革 - 茶 マット rb -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\皮革 - 茶 マット rb -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\皮革 - 茶 マット rb -opt.jpg
+newmtl GDLM53_PEN_MATERIAL0
+Ka 0.844892 0.844892 0.844892
+Kd 0.844892 0.844892 0.844892
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl PEN_MATERIAL1
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl 繊維_-_01
+Ka 0.660706 0.633176 0.608706
+Kd 0.762353 0.730588 0.702353
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka ARCHICAD 完成part２_テクスチャ\繊維 - 01 cb -opt.jpg
+map_Kd ARCHICAD 完成part２_テクスチャ\繊維 - 01 cb -opt.jpg
+map_Ks ARCHICAD 完成part２_テクスチャ\繊維 - 01 cb -opt.jpg
+newmtl GDLM56_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM57_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
